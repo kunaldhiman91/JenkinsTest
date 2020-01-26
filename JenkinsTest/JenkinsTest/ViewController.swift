@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
     
     func testJT() {
-        
+        print("In ViewController --------------------->")
     }
 
 
